@@ -161,3 +161,12 @@
     top:60px;
     font-family: 'Protest Riot', sans-serif;
   }
+
+  .click
+  {
+    position: absolute;
+    margin-top: 390px;
+    text-align: center;
+    color:#9d00ac;
+    font-family: cursive;
+  }
