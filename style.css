@@ -167,13 +167,13 @@
     position: absolute;
     margin-top: 390px;
     text-align: center;
-    color:#9d00ac;
+    color:#690272;
     font-family: cursive;
   }
 
   /* For mobile devices */
 @media only screen and (max-width: 768px) {
   .click {
-    font-family: 'Fallback-Font', sans-serif; /* Specify your fallback font for mobile devices */
+    font-family: 'Protest Riot', sans-serif; /* Specify your fallback font for mobile devices */
   }
 }
